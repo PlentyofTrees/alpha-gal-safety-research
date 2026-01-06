@@ -5,3 +5,5 @@ Exploratory research examining experiences with food allergies and dietary restr
 All survey instruments, research frameworks, and written materials in this repository are the original work of the author.
 Reuse, modification, or commercial application is not permitted without explicit written consent.
 
+This work is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
+
