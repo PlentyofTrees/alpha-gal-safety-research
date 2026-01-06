@@ -1,6 +1,6 @@
 ![Thumbnail_Github](./Thumbnail_Github.png)
 
-# food-allergy-and-dietary-risk-research
+# Food Allergy and Dietary Risk Research
 Exploratory research examining experiences with food allergies and dietary restrictions, with emphasis on risk awareness, labeling ambiguity, and privacy-first data collection.
 
 ## Intellectual Property Notice
